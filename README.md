@@ -1,5 +1,3 @@
-# Tennis-game
+# Pong Game Tennis like Atari game
 
-Program a ball and paddle project. <br>
-Tennis game like Atari 'Pong' <br>
-Coded in JS using HTML canvas
+JavaScript for HTML5 canvas
